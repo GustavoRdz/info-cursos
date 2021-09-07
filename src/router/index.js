@@ -11,6 +11,40 @@ const routes = [
     component: Home,
   },
   {
+    path: "/fisicaii",
+    name: "FisicaII",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/FisicaII.vue"),
+  },
+  {
+    path: "/fisicaiv",
+    name: "FisicaIV",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/FisicaIV.vue"),
+  },
+  {
+    path: "/labfisicaiv",
+    name: "LabFisicaIV",
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/LabFisicaIV.vue"),
+  },
+  {
+    path: "/mecatronicaComputacional",
+    name: "MecatronicaComputacional",
+    component: () =>
+      import(
+        /* webpackChunkName: "about" */ "../views/ComputationalMechatronics.vue"
+      ),
+  },
+  {
+    path: "/mecatronicaComputacionalLab",
+    name: "MecatronicaComputacionalLab",
+    component: () =>
+      import(
+        /* webpackChunkName: "about" */ "../views/ComputationalMechatronicsLab.vue"
+      ),
+  },
+  {
     path: "/about",
     name: "About",
     // route level code-splitting

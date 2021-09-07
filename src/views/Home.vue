@@ -1,18 +1,17 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="container mx-auto">
+    <h1 class="text-3xl">Bienvenido</h1>
+    Aqui encontrara información sobre los cursos impartidos por Gustavo Rodriguez M. en la FIME-UANL.
+    Utilice la barra de menu arriba para ir al curso que curse.
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
 
 export default {
   name: "Home",
   components: {
-    HelloWorld,
   },
 };
 </script>
