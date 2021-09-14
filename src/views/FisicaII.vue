@@ -30,7 +30,7 @@
           <a class="rounded-md m-2 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/oMsT5Je6vP3QUZns8" target="_blank">Preguntas</a>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/SdJsizeEUkybDX1L8" target="_blank">Ejercicios</a>
         </div>
-        <div class="m-1">Ponderación <b>9%</b>. Fecha limite: </div>
+        <div class="m-1">Ponderación <b>9%</b>. Fecha limite: 20/09/2021</div>
       </li>
       <li>
         <b>Actividad: Examen de medio curso</b>

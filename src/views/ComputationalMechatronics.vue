@@ -13,63 +13,63 @@
       <li>
         <div class="m-2">
         <b>Actividad:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">1</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jguAbME3WJVf8PWS6" target="_blank">Introducción a la mecatrónica computacional</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ktSAedpkh6HtXao58" target="_blank">2</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/9M5Pk74YnX68k7pUA" target="_blank">Sistemas de ecuaciones de diferenciales algebraicas continuas</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">3</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">3</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">4</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">4</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/tmQ167UyiCoeRAX97" target="_blank">5</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">5</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
          <div class="m-1">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/y153fjWABdHEN2Tp6" target="_blank">6</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">6</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
          <div class="m-2">
           <b>Actividad</b>
-            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/FvzPWJcamFy34bBz5" target="_blank">7</a>
+            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">7</a>
           </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>
       <li>
          <div class="m-2">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/kdGiDiECa8bjCLTQ9" target="_blank">8</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">8</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>
       <li>
          <div class="m-2">
         <b>Actividad: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/AiyHjfLeM847MPECA" target="_blank">9</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">9</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>

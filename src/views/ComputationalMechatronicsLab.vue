@@ -13,7 +13,7 @@
       <li>
         <div class="m-2">
         <b>Practica 1:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">1</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/uMoseh9a2DdPwBJG9" target="_blank">Solución de ecuaciones diferenciales con OpenModelica</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>

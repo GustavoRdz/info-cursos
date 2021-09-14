@@ -36,21 +36,21 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">Óptica geométrica</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite:
+          Ponderación <b>2%</b>. Fecha limite: 18/09/2021
         </div>
         <div class="m-1">
         <b>3b. Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ntpg3jJZWjbCk7bp6" target="_blank">Óptica física -- Interferencia</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite:
+          Ponderación <b>2%</b>. Fecha limite: 22/09/2021
         </div>
         <div class="m-1">
         <b>3c. Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ksZgwD6T8gwPR1NY8" target="_blank"> Óptica física -- Difracción y polarización</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite:
+          Ponderación <b>2%</b>. Fecha limite: 27/09/2021
         </div>
       </li>
       <li>
