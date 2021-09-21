@@ -86,6 +86,10 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://gustavordz.github.io/interactive-physics/" target="_blank">Physics playground</a>
       </div>
     </div>
+    <div class="mt-10 m-auto w-10/12 ">
+      <h1 class="text-4xl bg-green-200 m-auto w-10/12">Scores</h1>
+      <iframe width="900" height="300" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQgQR1DAuWHkYm6foGlcewQ7vgiiIHsJ7hPscmkNACxL5rqY9ZrdtPNX-riSZSaxJVwgr6Kv7Ut4sUH/pubchart?oid=1005359110&amp;format=interactive"></iframe>
+    </div>
   </div>
   
 </template>

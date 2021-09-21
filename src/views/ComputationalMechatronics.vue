@@ -15,21 +15,21 @@
         <b>Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jguAbME3WJVf8PWS6" target="_blank">Introducción a la mecatrónica computacional</a>
         </div>
-        <div class="m-1">Fecha de entrega: </div>
+        <div class="m-1">Fecha de entrega: 4/10/2021</div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/9M5Pk74YnX68k7pUA" target="_blank">Sistemas de ecuaciones de diferenciales algebraicas continuas</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/9M5Pk74YnX68k7pUA" target="_blank">Sistemas de ecuaciones diferenciales algebraicas continuas</a>
         </div>
-        <div class="m-1">Fecha de entrega: </div>
+        <div class="m-1">Fecha de entrega: 11/10/2021</div>
       </li>
       <li>
         <div class="m-2">
         <b>Actividad:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">3</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/weoNEohkY91yjRzf8" target="_blank">Examen de medio curso</a>
         </div>
-        <div class="m-1">Fecha de entrega: </div>
+        <div class="m-1">Fecha de entrega: 24/09/2021</div>
       </li>
       <li>
         <div class="m-2">
@@ -63,13 +63,6 @@
          <div class="m-2">
         <b>Actividad</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">8</a>
-        </div>
-        <div class="m-1">Fecha de entrega: </div>
-    </li>
-      <li>
-         <div class="m-2">
-        <b>Actividad: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">9</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>

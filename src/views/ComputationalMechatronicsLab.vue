@@ -20,42 +20,42 @@
       <li>
         <div class="m-2">
         <b>Practica 2: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ktSAedpkh6HtXao58" target="_blank">2</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/PuQnpdXcxjduDY1r6" target="_blank">Programación gráfica con openmodelica</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Practica 3:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">3</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">3</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Practica 4:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">4</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">4</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
         <div class="m-2">
         <b>Practica 5:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/tmQ167UyiCoeRAX97" target="_blank">5</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">5</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
          <div class="m-1">
         <b>Practica 6: </b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/y153fjWABdHEN2Tp6" target="_blank">6</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">6</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>
       <li>
          <div class="m-2">
           <b>Practica 7:</b>
-            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/FvzPWJcamFy34bBz5" target="_blank">7</a>
+            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">7</a>
           </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>

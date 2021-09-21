@@ -129,8 +129,8 @@
       <iframe class="w-10/12 m-auto" src="https://script.google.com/macros/s/AKfycbzVjQBWgcAYgkVxjayoVYzhQcjRLc4Dwhl3l5eQIHbvlCePiZSlJdUgHnetZmwX6YO1WA/exec" title="Physics" height="600px"></iframe>
     </div>
     <div class="w-11/12 m-auto">
-      <p>Tabla de records</p>
-      <iframe class="w-10/12 m-auto" width="1039" height="300" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQug3JK9WuWxutwgT1V7NrOIk8hE8NNEup9QWpTfYTxSI_Qt2pwooe284MH6i_7w7yCWCGENv_RoUZp/pubchart?oid=800554852&amp;format=interactive"></iframe>
+      <h1 class="text-4xl bg-green-200 m-auto w-10/12">Scores</h1>
+      <iframe class="w-10/12 m-auto" width="900" height="300" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQug3JK9WuWxutwgT1V7NrOIk8hE8NNEup9QWpTfYTxSI_Qt2pwooe284MH6i_7w7yCWCGENv_RoUZp/pubchart?oid=800554852&amp;format=interactive"></iframe>
     </div>
   </div>
   

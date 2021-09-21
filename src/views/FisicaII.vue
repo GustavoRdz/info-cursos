@@ -66,7 +66,7 @@
       <li>
         <b>Actividad: Examen ordinario</b>
         <div class="m-1">
-          Ponderación (25%). Fecha limite:  <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://www.fime.uanl.mx/wp-content/uploads/2021/07/Calendario-AGO-DIC-2021.pdf" target="_blank">Calendario</a>
+          Ponderación <b>25%</b>. Fecha limite:  <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://www.fime.uanl.mx/wp-content/uploads/2021/07/Calendario-AGO-DIC-2021.pdf" target="_blank">Calendario</a>
         </div>
       </li>
       <li>
@@ -75,7 +75,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/GzrveK3J22x2ZQNo8" target="_blank">Reporte</a>
         </div>
         <div class="m-1">
-          Ponderación (15%). Fecha limite: 
+          Ponderación <b>15%</b>. Fecha limite: 
         </div>
     </li>
     </ol>
@@ -85,6 +85,10 @@
       <div class="m-1">
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://gustavordz.github.io/interactive-physics/" target="_blank">Physics playground</a>
       </div>
+    </div>
+    <div class="mt-10 m-auto w-10/12 ">
+      <h1 class="text-4xl bg-green-200 m-auto w-10/12">Scores</h1>
+      <iframe width="900" height="300" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSscDEbOpG4tIjLj8ci-FCAJgPj3cleKI7f987wnZJApm3K8nNPlAz1KPNZvcSydqo26C3LBE2LwdL/pubchart?oid=912203533&amp;format=interactive"></iframe>
     </div>
   </div>
   
