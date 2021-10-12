@@ -65,7 +65,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/tmQ167UyiCoeRAX97" target="_blank">Efecto fotoeléctrico</a>
         </div>
         <div class="m-1">
-          Ponderación <b>3.5%</b>. Fecha limite:
+          Ponderación <b>3.5%</b>. Fecha limite: <b>19/10/2021</b>
         </div>
         <div class="m-1">
         <b>5b. Actividad:</b>
@@ -125,8 +125,11 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://gustavordz.github.io/interactive-physics/" target="_blank">Physics playground</a>
       </div>
     </div>
-    <div class="w-11/12 m-auto">
-      <iframe class="w-10/12 m-auto" src="https://script.google.com/macros/s/AKfycbzVjQBWgcAYgkVxjayoVYzhQcjRLc4Dwhl3l5eQIHbvlCePiZSlJdUgHnetZmwX6YO1WA/exec" title="Physics" height="600px"></iframe>
+    <div class="w-11/12 m-auto py-10">
+      <div class="font-bold text-4xl bg-gray-200 m-auto w-3/12 my-2 rounded text-yellow-500">SCORES</div>
+      <iframe class="w-5/12 m-auto" width="380" height="700" src="https://datastudio.google.com/embed/reporting/8af45570-6047-4592-b5f6-e741515dfc11/page/7pdcC" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <!-- <iframe class="w-5/12 m-auto" src="https://datastudio.google.com/embed/reporting/8af45570-6047-4592-b5f6-e741515dfc11/page/7pdcC" title="Physics" height="600px"></iframe> -->
+      <!-- <iframe class="w-10/12 m-auto" src="https://script.google.com/macros/s/AKfycbzVjQBWgcAYgkVxjayoVYzhQcjRLc4Dwhl3l5eQIHbvlCePiZSlJdUgHnetZmwX6YO1WA/exec" title="Physics" height="600px"></iframe> -->
     </div>
     <div class="w-11/12 m-auto">
       <h1 class="text-4xl bg-green-200 m-auto w-10/12">Scores</h1>

@@ -55,18 +55,22 @@
       <li>
          <div class="m-2">
           <b>Actividad</b>
-            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">7</a>
+            <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">Examen ordinario</a>
           </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>
       <li>
          <div class="m-2">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">8</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">Producto integrador de aprendizaje</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
     </li>
     </ol>
+    </div>
+    <div class="w-11/12 m-auto py-10">
+      <div class="font-bold text-4xl bg-gray-200 m-auto w-3/12 my-2 rounded text-yellow-500">SCORES</div>
+      <iframe class="w-5/12 m-auto" width="380" height="600" src="https://datastudio.google.com/embed/reporting/66c789c8-6fd9-4173-9275-0c8d49de77a2/page/7pdcC" frameborder="0" style="border:0" allowfullscreen></iframe>
     </div>
     <div class="w-10/12 m-auto">
       <p>En este enlace se encuentra la presentación del curso</p>

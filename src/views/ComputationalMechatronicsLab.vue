@@ -27,7 +27,7 @@
       <li>
         <div class="m-2">
         <b>Practica 3:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">3</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/9oNwBprh3NDU13N28" target="_blank">Modelar máquinas de estados finitos</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>

@@ -86,6 +86,13 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://gustavordz.github.io/interactive-physics/" target="_blank">Physics playground</a>
       </div>
     </div>
+    <div class="w-11/12 m-auto py-10">
+      <div class="font-bold text-4xl bg-gray-200 m-auto w-3/12 my-2 rounded text-yellow-500">SCORES</div>
+      <iframe class="w-5/12 m-auto" width="380" height="550" src="https://datastudio.google.com/embed/reporting/1f0d0ab1-ca3a-4d95-a6e9-3a6024e3e719/page/7pdcC" frameborder="0" style="border:0" allowfullscreen></iframe>
+      <!-- <iframe class="w-5/12 m-auto" width="380" height="680" src="https://datastudio.google.com/embed/reporting/8af45570-6047-4592-b5f6-e741515dfc11/page/7pdcC" frameborder="0" style="border:0" allowfullscreen></iframe> -->
+      <!-- <iframe class="w-5/12 m-auto" src="https://datastudio.google.com/embed/reporting/8af45570-6047-4592-b5f6-e741515dfc11/page/7pdcC" title="Physics" height="600px"></iframe> -->
+      <!-- <iframe class="w-10/12 m-auto" src="https://script.google.com/macros/s/AKfycbzVjQBWgcAYgkVxjayoVYzhQcjRLc4Dwhl3l5eQIHbvlCePiZSlJdUgHnetZmwX6YO1WA/exec" title="Physics" height="600px"></iframe> -->
+    </div>
     <div class="mt-10 m-auto w-10/12 ">
       <h1 class="text-4xl bg-green-200 m-auto w-10/12">Scores</h1>
       <iframe width="900" height="300" seamless frameborder="0" scrolling="yes" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRSscDEbOpG4tIjLj8ci-FCAJgPj3cleKI7f987wnZJApm3K8nNPlAz1KPNZvcSydqo26C3LBE2LwdL/pubchart?oid=912203533&amp;format=interactive"></iframe>
