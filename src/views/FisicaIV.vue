@@ -72,7 +72,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/syp6ihMiFMsdjVbQ7" target="_blank">Rayos X</a>
         </div>
         <div class="m-1">
-          Ponderación <b>3.5%</b>. Fecha limite:
+          Ponderación <b>3.5%</b>. Fecha limite: <b>25/10/2021</b>
         </div>
       </li>
       <li>
@@ -81,7 +81,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/y153fjWABdHEN2Tp6" target="_blank">El átomo</a>
         </div>
         <div class="m-1">
-          Ponderación <b>7%</b>. Fecha limite:
+          Ponderación <b>7%</b>. Fecha limite: <b>3/11/2021</b>
         </div>
       </li>
       <li>

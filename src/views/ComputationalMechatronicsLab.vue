@@ -34,7 +34,7 @@
       <li>
         <div class="m-2">
         <b>Practica 4:</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">4</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/NHPuDAdntQ6LYdjA6" target="_blank">Modelado de sistemas termo hidráulicos simples</a>
         </div>
         <div class="m-1">Fecha de entrega: </div>
       </li>

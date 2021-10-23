@@ -44,14 +44,14 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/JfnwZVYNbWQRPRGDA" target="_blank">Ejercicios</a>
         </div>
         <div class="m-1">
-          Ponderación <b>4.5%</b>. Fecha limite: 
+          Ponderación <b>4.5%</b>. Fecha limite: <b>1/11/2021</b>
         </div>
         4.2 <b>Actividad: Dinámica de fluidos</b>
         <div class="m-1">
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/1uH2284gLk9gGipXA" target="_blank">Ejercicios</a>
         </div>
         <div class="m-1">
-          Ponderación <b>4.5%</b>. Fecha limite:
+          Ponderación <b>4.5%</b>. Fecha limite: <b>8/11/2021</b>
         </div>
       </li>
       <li>
