@@ -90,16 +90,18 @@
             <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/FvzPWJcamFy34bBz5" target="_blank">El Núcleo y reacciones nucleares</a>
           </div>
         <div class="m-1">
-          Ponderación <b>7%</b>. Fecha limite: 
+          Ponderación <b>7%</b>. Fecha limite: <b>17/11/2021</b>
         </div>
     </li>
       <li>
          <div class="m-2">
         <b>Actividad: </b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/kdGiDiECa8bjCLTQ9" target="_blank">Dinámica de grupo</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://sites.google.com/site/fisica4fime/home/documentos/Espectrometro%202%20piezas.pdf?attredirects=0&d=1">Plantilla</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://sites.google.com/site/fisica4fime/home/documentos/Instrucciones%208.5x11mini-spec3.8.pdf?attredirects=0&d=1">Instrucciones</a>
         </div>
         <div class="m-1">
-          Ponderación <b>10%</b>. Fecha limite: 
+          Ponderación <b>10%</b>. Fecha limite: <b>19/11/2021</b>
         </div>
     </li>
       <li>
