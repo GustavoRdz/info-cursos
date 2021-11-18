@@ -34,7 +34,7 @@
       <li>
         <div class="m-2">
         <b>Actividad</b>
-          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://" target="_blank">Modelado del control del sistema opto-mecatrónico de autoenfoque</a>
+          <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/j8nJdkdpD9RBKMrF9" target="_blank">Modelado del control del sistema opto-mecatrónico de autoenfoque</a>
         </div>
         <div class="m-1">Fecha de entrega: 21/11/2021</div>
       </li>
