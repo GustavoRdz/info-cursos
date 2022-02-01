@@ -3,8 +3,9 @@
     <div id="nav" class="bg-green-100 fixed w-full">
       <router-link to="/">Home</router-link> |
       <router-link to="/FisicaII">Fisica II</router-link> |
+      <router-link to="/FisicaIII">Fisica III</router-link> |
       <router-link to="/FisicaIV">Física IV</router-link> |
-      <router-link to="/LabFisicaIV">Lab. Física IV</router-link> |
+      <router-link to="/sistemasDeVision">Sistemas de Visión</router-link> |
       <router-link to="/mecatronicaComputacional">Mecatronica computacional</router-link> |
       <router-link to="/mecatronicaComputacionalLab">Mecatronica computacional Lab</router-link> |
       <router-link to="/about">About</router-link>

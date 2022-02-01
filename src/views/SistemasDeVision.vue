@@ -3,7 +3,7 @@
     <h1 class="text-4xl font-black">Física II</h1>
     <div class="m-auto w-10/12">
       <p class="text-justify m-auto">
-        Bienvenido en este sitio encontraras las herramientas para realizar las actividades fundamentales del curso de física II en línea. <br>
+        Bienvenido en este sitio encontraras las herramientas para realizar las actividades fundamentales del curso de Sistemas de Visión en línea. <br>
         Primero se deberán realizar las actividades por su cuenta, en su libreta, y después ya resuelta deberán contestar los cuestionarios de este sitio.
       </p>
       <p class="font-bold">El contenido de los cuestionarios</p>
@@ -30,7 +30,7 @@
           <a class="rounded-md m-2 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/oMsT5Je6vP3QUZns8" target="_blank">Preguntas</a>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/SdJsizeEUkybDX1L8" target="_blank">Ejercicios</a>
         </div>
-        <div class="m-1">Ponderación <b>9%</b>. Fecha limite: </div>
+        <div class="m-1">Ponderación <b>9%</b>. Fecha limite: 20/09/2021</div>
       </li>
       <li>
         <b>Actividad: Examen de medio curso</b>
@@ -44,14 +44,14 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/JfnwZVYNbWQRPRGDA" target="_blank">Ejercicios</a>
         </div>
         <div class="m-1">
-          Ponderación <b>4.5%</b>. Fecha limite: <b></b>
+          Ponderación <b>4.5%</b>. Fecha limite: <b>1/11/2021</b>
         </div>
         4.2 <b>Actividad: Dinámica de fluidos</b>
         <div class="m-1">
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/1uH2284gLk9gGipXA" target="_blank">Ejercicios</a>
         </div>
         <div class="m-1">
-          Ponderación <b>4.5%</b>. Fecha limite: <b></b>
+          Ponderación <b>4.5%</b>. Fecha limite: <b>8/11/2021</b>
         </div>
       </li>
       <li>

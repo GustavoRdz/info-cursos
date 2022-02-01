@@ -21,14 +21,14 @@
         <b>Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/HkuHv4idF7MmJvnD7" target="_blank">Velocidades relativistas</a>
         </div>
-        <div class="m-1">Ponderacion <b>6%</b>. Fecha limite:</div>
+        <div class="m-1">Ponderación <b>6%</b>. Fecha limite: 7/02/2022</div>
       </li>
       <li>
         <div class="m-1">
         <b>Actividad: </b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ktSAedpkh6HtXao58" target="_blank">Cantidades que varían con la velocidad</a>
         </div>
-        <div class="m-1">Ponderación <b>7%</b>. Fecha limite: </div>
+        <div class="m-1">Ponderación <b>7%</b>. Fecha limite: 11/02/22</div>
       </li>
       <li>
         <div class="m-1">
@@ -36,21 +36,21 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/jzm2QnWFnreprG7T8" target="_blank">Óptica geométrica</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite: 18/09/2021
+          Ponderación <b>2%</b>. Fecha limite: 
         </div>
         <div class="m-1">
         <b>3b. Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ntpg3jJZWjbCk7bp6" target="_blank">Óptica física -- Interferencia</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite: 22/09/2021
+          Ponderación <b>2%</b>. Fecha limite: 
         </div>
         <div class="m-1">
         <b>3c. Actividad:</b>
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/ksZgwD6T8gwPR1NY8" target="_blank"> Óptica física -- Difracción y polarización</a>
         </div>
         <div class="m-1">
-          Ponderación <b>2%</b>. Fecha limite: 27/09/2021
+          Ponderación <b>2%</b>. Fecha limite: 
         </div>
       </li>
       <li>
@@ -72,7 +72,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/syp6ihMiFMsdjVbQ7" target="_blank">Rayos X</a>
         </div>
         <div class="m-1">
-          Ponderación <b>3.5%</b>. Fecha limite: <b>25/10/2021</b>
+          Ponderación <b>3.5%</b>. Fecha limite: <b></b>
         </div>
       </li>
       <li>
@@ -81,7 +81,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/y153fjWABdHEN2Tp6" target="_blank">El átomo</a>
         </div>
         <div class="m-1">
-          Ponderación <b>7%</b>. Fecha limite: <b>3/11/2021</b>
+          Ponderación <b>7%</b>. Fecha limite: <b></b>
         </div>
       </li>
       <li>
@@ -90,7 +90,7 @@
             <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://forms.gle/FvzPWJcamFy34bBz5" target="_blank">El Núcleo y reacciones nucleares</a>
           </div>
         <div class="m-1">
-          Ponderación <b>7%</b>. Fecha limite: <b>17/11/2021</b>
+          Ponderación <b>7%</b>. Fecha limite: <b></b>
         </div>
     </li>
       <li>
@@ -101,7 +101,7 @@
           <a class="rounded-md m-1 p-1 bg-blue-600 hover:bg-green-300 text-gray-200" href="https://sites.google.com/site/fisica4fime/home/documentos/Instrucciones%208.5x11mini-spec3.8.pdf?attredirects=0&d=1">Instrucciones</a>
         </div>
         <div class="m-1">
-          Ponderación <b>10%</b>. Fecha limite: <b>19/11/2021</b>
+          Ponderación <b>10%</b>. Fecha limite: <b></b>
         </div>
     </li>
       <li>
